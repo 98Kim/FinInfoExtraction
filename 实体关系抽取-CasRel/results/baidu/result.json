@@ -1,0 +1,2 @@
+{"triple_list_gold": [{"subject": "再见青春", "relation": "所属专辑", "object": "信仰在空中飘扬"}], "triple_list_pred": [], "new": [], "lack": [{"subject": "再见青春", "relation": "所属专辑", "object": "信仰在空中飘扬"}]}
+pred": [], "new": [], "lack": [{"subject": "小猪歌", "relation": "歌手", "object": "郭子睿"}, {"subject": "小猪歌", "relation": "作曲", "object": "董冬冬"}, {"subject": "小猪歌", "relation": "作词", "object": "陈曦"}]}
