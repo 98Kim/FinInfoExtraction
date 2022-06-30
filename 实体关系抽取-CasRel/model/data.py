@@ -135,3 +135,6 @@ def get_data_iterator(config, dataset, rel_vocab, is_test=False, collate_fn=my_c
                            collate_fn=collate_fn,
                            batch_size=config.batch_size if not is_test else 1,
                            sampler=MyRandomSampler())
+
+
+
